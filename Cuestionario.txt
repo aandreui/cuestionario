@@ -4,8 +4,9 @@ Fernando Quintanar Juarez 11º2
 
 Preguntas:
 
-1.En tus palabras, ¿Qué es internet?
+1.En tus palabras, ¿Qué es internet
 
+Una red que dconecta a todos los dispositivos compatibles
 
 2.Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 
@@ -22,6 +23,8 @@ Hodas electromagnéticas: Podemos mandar señales de radio en frecuencias espec�
 
 3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 
+La IP es la direrccion de una computadora, es asi como los dispositivos se comunican con otros 
+El DNS asocia los nombres como www.ejemplo.com con las IP correspondientes, lo0s dispositivos la usan para buscar nombres y obtener el IP que es usada para conectarse a nuetro dispositivo a nuestro destino en internet.
 
 4.Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 
@@ -32,6 +35,10 @@ listo!!!, tienes una canción.
 
 
 5.Describe los protocolos que existen en internet, en específico HTTP y HTML
+
+HTTP es el proceso o protocolo de comunicacion que permite las transferencias de informacion a trves de archivos en internet.
+El HTML es el codigo que se utiliza para estructurar y desplegar una pagina y sus contenidos.
+
 
 
 6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
@@ -48,7 +55,16 @@ Otra cosa que hacen las computadoras es usar llaves públicas y privadas. Una ll
 pero para leerlos requieres una llave privada la cual no se la da a la gente.
 
 
-7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet
+
+Hacer uso de contraseñas que sean dificiles de adivinar haciendo uso de numeros y caracteres 
+revisar la direccion de la pagina y que esta sea confiable 
+instalar actualizaciones de seguridad regularmenrte
+No instalar software que no entendemos o no confiemos.
+
+Tambien podemos no compartir nuestras contraseñas: 1. Con personas e las que no confiemos. y 2. En redes sociales.
+Redes sociales son la forma mas sencilla de encontrar las contraseñas o dirrectamente informacuon personaol de gente que no 
+cuidan de sus cosas.
 
 
 8.¿Cómo funciona la búsqueda de google?
